@@ -1,0 +1,12 @@
+.barre-blanche {
+	background-color: white;
+    width: auto;
+    height: 70px;
+    margin-top: 150px;
+}
+
+.barre-blanche a {
+	text-decoration:none;
+	margin-right: 340px;
+	color:  #92140C;
+}

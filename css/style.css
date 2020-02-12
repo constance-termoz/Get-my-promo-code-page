@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Noto+Serif:400,700,700i&display=swap');
+
+
+@import url("components/grid.css");
+@import url("components/text.css");
+@import url("components/pizza.css");
+@import url("components/orange.css");
+@import url("components/barre-blanche.css");
+@import url("components/cadre-jaune.css");
+
+
+
+
+body {
+	font-family: 'Karla', sans-serif;
+	justify-content: space-between;
+}
+
+h3 {
+	font-family: 'Noto Serif', serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+h2 {
+	font-family: 'Noto Serif', serif;
+}
+
+
+h1 {
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+}
+
+
+
+
+

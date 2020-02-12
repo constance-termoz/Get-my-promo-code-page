@@ -1,0 +1,18 @@
+.cadre-jaune {
+	background-color: #F2F3AE;
+    height: 270px;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.cadre-jaune a {
+	text-decoration:none;
+}
+
+.cadre-jaune h1 {
+	padding-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 20px;
+    margin-right: 20px;
+    color: #FF9000;
+}
